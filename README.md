@@ -21,7 +21,7 @@ Full-Stack developer which me create professional web applications.
 ## My favorite stacks
 
 1. Laravel, Inertia, Vue & Tailwind
-2. Nuxt, Vue & NuxtUI
+2. Nuxt, Vue & Shadcn UI
 
 <br>
 
