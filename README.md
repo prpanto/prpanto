@@ -14,7 +14,7 @@ Full-Stack developer which me create professional web applications.
 2. Vue & Nuxt is my lover.
 3. React & Next is my cheater.
 4. Tailwind & Shadcn UI is my passion.
-5. Adonis is my illusory dream.
+5. Adonis.js is my illusory dream.
 
 <br>
 
